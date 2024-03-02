@@ -16,4 +16,5 @@ var convert = age.toString();
 console.log(typeof convert); //return string
 
 //to Fixed
-console.log(PI.toFixed());
+console.log(PI.toFixed()); //type of = STRING   
+
